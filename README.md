@@ -34,14 +34,15 @@ I possess a strong foundation in data science and machine learning, enabling me 
     *   **Supervised Learning:** Regression, Classification (e.g., linear regression, logistic regression)
     *   **Unsupervised Learning:** Clustering (e.g., K-means clustering)
     *   **Deep Learning:** Proficient in developing and deploying deep learning models, including:
-        *   **CNNs (Convolutional Neural Networks):** Developing CNN architectures for image classification, object detection, and other computer vision tasks.  
-        *   **UNet:** Experience with UNet architectures for image segmentation, particularly in applications like medical imaging.  Applied UNet to liver and lung tumor segmentation in CT images.
+        *   **CNNs (Convolutional Neural Networks):** Developing CNN architectures for image classification, and object detection. 
+        *   **UNet:** Experience with UNet architectures for image segmentation, particularly in applications like medical imaging. Applied UNet to liver and lung tumor segmentation in CT images.
         *   **ResNet:** Experience with ResNet architectures for image classification tasks in medical imaging. Applied ResNet to pneumonia detection in X-ray images.
+
+*   **Computer Vision:** Proficient in using OpenCV for image processing, object detection (using pre-trained models), and other computer vision tasks.  Experience integrating OpenCV with deep learning models for object detection applications.
 
 *   **Data Visualization:** Able to create insightful visualizations using tools like Matplotlib and Seaborn to communicate findings effectively. Experience with creating various types of charts and graphs to represent data and model performance.
 
-*   **Software Development & Collaboration:** Skilled in using Git for version control and collaborating with teams using platforms like Jira and Confluence.  Experience with agile development methodologies.
-
+*   **Software Development & Collaboration:** Skilled in using Git for version control and collaborating with teams using platforms like Jira and Confluence. 
 
 
  ## 🛠️ Technologies & Tools
