@@ -71,7 +71,7 @@ I possess a strong foundation in data science and machine learning, enabling me 
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     ![pip](https://img.shields.io/badge/pip-202300?style=for-the-badge&logo=pip&logoColor=white)
 
-**AI:**
+- **AI:**
     ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
     ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
     ![Perplexity AI](https://img.shields.io/badge/Perplexity%20AI-4632FF?style=for-the-badge&logo=perplexityai&logoColor=white)
