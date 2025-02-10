@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivsubedi&label=Profile%20views&color=0e75b6&style=plastic" alt="shivsubedi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivsubedi" alt="shivsubedi" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Vision and Predictive Modeling techniques**
 
@@ -25,29 +24,79 @@
 ## Google Scholar
 You can find my research publications and citations on my [Google Scholar profile](https://scholar.google.com/citations?user=WIKDjrAAAAAJ&hl=en&authuser=1&oi=sra).
 
-## Key Areas of Expertise:
-**Programming & Data Analysis:**
+## Key Areas of Expertise
 
-* **Languages:** Python, C/C++, Fortran, LabVIEW
-* **Libraries/Tools:** NumPy, Pandas, SciPy, Scikit-learn, OpenCV
-* **Data Visualization:** Matplotlib, Seaborn, Gnuplot, Xmgrace, Origin
+I possess a strong foundation in data science and machine learning, enabling me to develop and deploy effective solutions. My key skills include:
 
-**Machine Learning & Deep Learning:**
+*   **Data Analysis & Manipulation:** Proficient in using Python libraries like NumPy and Pandas to clean, process, and analyze large datasets.  
 
-* **Machine Learning:** Supervised Learning (Regression, Classification), Unsupervised Learning (K-means Clustering)
-* **Deep Learning:**  ANNs, CNNs, ResNet, UNet
-* **Frameworks:** PyTorch, TensorFlow
+*   **Machine Learning Model Development:** Experienced in building and training machine learning models using frameworks such as TensorFlow and PyTorch. Familiar with various algorithms, including:
+    *   **Supervised Learning:** Regression, Classification (e.g., linear regression, logistic regression)
+    *   **Unsupervised Learning:** Clustering (e.g., K-means clustering)
+    *   **Deep Learning:** Proficient in developing and deploying deep learning models, including:
+        *   **CNNs (Convolutional Neural Networks):** Developing CNN architectures for image classification, object detection, and other computer vision tasks.  
+        *   **UNet:** Experience with UNet architectures for image segmentation, particularly in applications like medical imaging.  Applied UNet to liver and lung tumor segmentation in CT images.
+        *   **ResNet:** Experience with ResNet architectures for image classification tasks in medical imaging. Applied ResNet to pneumonia detection in X-ray images.
 
-**Data Management & Development::**
+*   **Data Visualization:** Able to create insightful visualizations using tools like Matplotlib and Seaborn to communicate findings effectively. Experience with creating various types of charts and graphs to represent data and model performance.
 
-* **Database Management:** MySQL
-* **Version Control:** Git (GitHub, Bitbucket)
-* **Project Management:** Atlassian Suite (Confluence, Jira)
-* **GPU Computing:** CUDA, Experience with high-performance computing resources (Ohio Supercomputer Center)
+*   **Software Development & Collaboration:** Skilled in using Git for version control and collaborating with teams using platforms like Jira and Confluence.  Experience with agile development methodologies.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+ ## 🛠️ Technologies & Tools
+
+- **Programming Languages:**
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![C++](https://img.shields.io/badge/C%2B%2B-%230059B3.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![Fortran](https://img.shields.io/badge/Fortran-%234169E1.svg?style=for-the-badge&logo=fortran&logoColor=white)
+    ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23002851.svg?style=for-the-badge&logo=labview&logoColor=white)
+
+- **Machine Learning Frameworks:**
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+- **Cloud-Based IDEs:**
+    ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+    ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-1A1B1F?style=for-the-badge&logo=github&logoColor=white)
+
+- **Data Science Libraries/Tools:**
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+    ![SciPy](https://img.shields.io/badge/SciPy-%230C529C.svg?style=for-the-badge&logo=scipy&logoColor=white)
+    ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3D2E.svg?style=for-the-badge&logo=opencv&logoColor=white)
+    ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+    ![pip](https://img.shields.io/badge/pip-202300?style=for-the-badge&logo=pip&logoColor=white)
+
+**AI:**
+    ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+    ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+    ![Perplexity AI](https://img.shields.io/badge/Perplexity%20AI-4632FF?style=for-the-badge&logo=perplexityai&logoColor=white)
+    ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)  
+
+- **Data Visualization:**
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+    ![Seaborn](https://img.shields.io/badge/Seaborn-%234C634F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+    ![Gnuplot](https://img.shields.io/badge/Gnuplot-%230000FF.svg?style=for-the-badge&logo=gnuplot&logoColor=white)
+    ![Xmgrace](https://img.shields.io/badge/Xmgrace-%23A0522D.svg?style=for-the-badge&logo=xmgrace&logoColor=white)
+    ![Origin](https://img.shields.io/badge/Origin-%23FF8C00.svg?style=for-the-badge&logo=origin&logoColor=white)
+
+- **Database Management:**
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Project Management & Collaboration:**
+    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+    ![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+
+- **GPU Computing:**
+    ![CUDA](https://img.shields.io/badge/CUDA-%2305793B.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivsubedi&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="shivsubedi" /></p>
 
