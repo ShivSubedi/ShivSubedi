@@ -21,8 +21,16 @@
 <a href="https://linkedin.com/in/shiv-subedi-929b0086/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiv-subedi-929b0086/" height="30" width="40" /></a>
 </p>
 
-## Google Scholar
-You can find my research publications and citations on my [Google Scholar profile](https://scholar.google.com/citations?user=WIKDjrAAAAAJ&hl=en&authuser=1&oi=sra).
+## Research Publications
+
+
+### Machine Learning for Medical Device Characterization (PET Detector)
+
+*   **Developed a CNN-based solution** to characterize the spatial resolution of a novel semi-monolithic PET detector geometry, leveraging 1600 training and 1521 testing points (1mm pitch). This work demonstrates my ability to apply deep learning to complex medical imaging challenges.
+*   **Engineered a novel method** for correcting position bias in CNN predictions, significantly improving the accuracy and reliability of the model. This is critical for precise image reconstruction in PET scans and showcases my skills in model optimization and performance analysis.
+*   **First-author publication accepted in *Radiation Measurements*** (pre-print available on arXiv: [link](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Farxiv.org%2Fabs%2F2502.07777&data=05%7C02%7Css383615%40ohio.edu%7Cc8ce975acdc04776c9c908dd4b0ce668%7Cf3308007477c4a70888934611817c55a%7C0%7C0%7C638749240955744074%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jVSW9b1Mbv22Mh9%2FreNfLkYbztuFjNoxvfRKxp3sCA4%3D&reserved=0)). This publication highlights my experience building and optimizing CNN models, including developing simple yet robust architectures and training strategies.
+
+You can find rest of my research publications and citations on my [Google Scholar profile](https://scholar.google.com/citations?user=WIKDjrAAAAAJ&hl=en&authuser=1&oi=sra).
 
 ## Key Areas of Expertise
 
