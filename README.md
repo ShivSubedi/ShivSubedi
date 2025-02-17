@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working on **Computer Vision and Predictive Modeling techniques**
 
-- 🌱 I’m currently learning **Advanced statistical models for predictive modeling**
-
-- 👯 I’m looking to collaborate on **portfolio projects with real-world data**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ShivSubedi](https://github.com/ShivSubedi)
 
 - 📫 How to reach me **sub60061@gmail.com**
